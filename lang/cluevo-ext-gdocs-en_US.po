@@ -1,0 +1,119 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CLUEVO LMS Erweiterung: Google Docs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-17 09:14+0000\n"
+"PO-Revision-Date: 2020-03-17 10:15+0100\n"
+"Last-Translator: CLUEVO Admin <office@sourcenova.at>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 2.3\n"
+"X-Loco-Version: 2.2.2; wp-4.9.10\n"
+
+#: cluevo-lms-extension-gdocs-modules.php:46
+msgid "Google Documents"
+msgstr "Google Documents"
+
+#: cluevo-lms-extension-gdocs-modules.php:48
+msgid ""
+"Installs a Google Document: Doc (Word), Sheet (Excel), Slide (PowerPoint), "
+"Image or a Google Form.<br/>You can get your embed code in your document "
+"under File -> Publish to the Web -> Embed. After publishing you can copy the "
+"embed code and paste it here."
+msgstr ""
+"Installs a Google Document: Doc (Word), Sheet (Excel), Slide (PowerPoint), "
+"Image or a Google Form.<br/>You can get your embed code in your document "
+"under File -> Publish to the Web -> Embed. After publishing you can copy the "
+"embed code and paste it here."
+
+#: cluevo-lms-extension-gdocs-modules.php:50
+msgid "Paste your embed code here"
+msgstr "Paste your embed code here"
+
+#: cluevo-lms-extension-gdocs-modules.php:51
+msgid "Install Module"
+msgstr "Install Module"
+
+#: cluevo-lms-extension-gdocs-modules.php:73
+msgid "Document Title"
+msgstr "Document Title"
+
+#: cluevo-lms-extension-gdocs-modules.php:186
+msgid "Module updated."
+msgstr "Module updated."
+
+#: cluevo-lms-extension-gdocs-modules.php:191
+msgid "Module created."
+msgstr "Module created."
+
+#. Name of the plugin
+msgid "CLUEVO LMS Extension: Google Documents as modules"
+msgstr "CLUEVO LMS Extension: Google Documents as modules"
+
+#. Description of the plugin
+msgid "Enables you to use Google Documents as modules in your LMS"
+msgstr "Enables you to use Google Documents as modules in your LMS"
+
+#. URI of the plugin
+msgid "https://www.cluevo.at"
+msgstr "https://www.cluevo.at"
+
+#. Author of the plugin
+msgid "CLUEVO"
+msgstr "CLUEVO"
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/cluevo/"
+msgstr "https://profiles.wordpress.org/cluevo/"
+
+#~ msgid ""
+#~ "Please enter a name for your module. If this is not Google Document you "
+#~ "can abort this process."
+#~ msgstr ""
+#~ "Please enter a name for your module. If this is not Google Document you "
+#~ "can abort this process."
+
+#~ msgid "Hier den Embed Code einfügen"
+#~ msgstr "Paste your embed code here"
+
+#~ msgid "Inhalt installieren"
+#~ msgstr "Install content"
+
+#~ msgid ""
+#~ "Bitte gib einen Namen für dieses Google Docs Modul ein. Falls es sich "
+#~ "nicht um ein Google Docs Modul handelt kannst du diesen Vorgang abbrechen."
+#~ msgstr ""
+#~ "Please enter a name for this Google Docs module. If this is not a Google "
+#~ "Docs module, you can cancel this process now."
+
+#~ msgid ""
+#~ "Um diese Erweiterung verwenden zu können muss das CLUEVO LMS Plugin "
+#~ "aktiviert sein."
+#~ msgstr "You must have the CLUEVO LMS plugin activated to use this plugin."
+
+#~ msgid "Fehler"
+#~ msgstr "Error"
+
+#~ msgid "Modul geändert."
+#~ msgstr "Module updated."
+
+#~ msgid ""
+#~ "Ermöglicht das Einbinden von Google Docs (Docs, Sheets, Slides, Forms) "
+#~ "als Module"
+#~ msgstr ""
+#~ "Enables the use of Google Documents (Docs, Sheets, Slides, Forms) as "
+#~ "modules"
+
+#~ msgid ""
+#~ "Installiert ein Google Document : Docs (Word), Sheets (Excel), Slides "
+#~ "(Powerpoint), Bild oder auch ein Google Form"
+#~ msgstr ""
+#~ "Installs a Google Document as module: Docs (Word), Sheets (Excel), Slides "
+#~ "(Powerpoint), Image or even a Google Form"
+
+#~ msgid "https://"
+#~ msgstr "https://"

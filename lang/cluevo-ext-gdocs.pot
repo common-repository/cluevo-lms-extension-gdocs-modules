@@ -1,0 +1,68 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CLUEVO LMS Erweiterung: Google Docs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-17 09:14+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-4.9.10"
+
+#: cluevo-lms-extension-gdocs-modules.php:46
+msgid "Google Documents"
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:48
+msgid ""
+"Installs a Google Document: Doc (Word), Sheet (Excel), Slide (PowerPoint), "
+"Image or a Google Form.<br/>You can get your embed code in your document "
+"under File -> Publish to the Web -> Embed. After publishing you can copy the "
+"embed code and paste it here."
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:50
+msgid "Paste your embed code here"
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:51
+msgid "Install Module"
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:73
+msgid "Document Title"
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:186
+msgid "Module updated."
+msgstr ""
+
+#: cluevo-lms-extension-gdocs-modules.php:191
+msgid "Module created."
+msgstr ""
+
+#. Name of the plugin
+msgid "CLUEVO LMS Extension: Google Documents as modules"
+msgstr ""
+
+#. Description of the plugin
+msgid "Enables you to use Google Documents as modules in your LMS"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.cluevo.at"
+msgstr ""
+
+#. Author of the plugin
+msgid "CLUEVO"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/cluevo/"
+msgstr ""

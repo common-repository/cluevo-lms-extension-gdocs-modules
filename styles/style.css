@@ -1,0 +1,22 @@
+.cluevo-module-form.cluevo-ext-gdocs {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: baseline;
+
+}
+
+.cluevo-module-form.cluevo-ext-gdocs label.doc-name {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.cluevo-module-form.cluevo-ext-gdocs input[type="submit"] {
+  margin: 10px 0 0 0;
+}
+
+.cluevo-module-form.cluevo-ext-gdocs textarea {
+  width: 500px;
+  height: 100px;
+}
